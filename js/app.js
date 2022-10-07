@@ -1,23 +1,3 @@
-//si el campo tweet esta vacio mostrar validacion
-
-//si agrega el mensaje de error quitarlo a los 3s
-
-// construit el id por Date.now()
-
-//En un objeto la llave se puedellamar igual al valor,  cuando es asi se queda el mismo nombre
-
-//tweets.lenght para validar la creacion
-
-//tweets en li
-
-//En localStore se guardan el arreglo u objeto con toda la info
-
-// retun para que se siga ejecutando la funcion
-
-// con JSON.parse(localStorage.getItem("variable") || []) -> sino hay anda devuelve un arreglo vacio
-
-//revisar como tomo wl value y elñimino el valur del tweet
-
 /* Variables */
 
 const formulario = document.querySelector('#formulario');
